@@ -1,0 +1,16 @@
+hello world 
+
+
+<<<<<<< HEAD
+Creating a new branch is quick & simple.
+=======
+hello world   hhahaha
+>>>>>>> feature1
+
+.................................................
+=======
+galigli
+
+>>>>>>> feature
+
+hahhah
